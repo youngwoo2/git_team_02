@@ -1,0 +1,9 @@
+team : Tigers
+
+manager : Miseon
+
+members :
+- JinHo
+- InHyeok
+- Seop
+- George
