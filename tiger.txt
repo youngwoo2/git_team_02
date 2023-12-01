@@ -1,6 +1,6 @@
 team : Tigers
 
-manager : Miseon
+manager : JeongSeop
 
 members :
 - JinHo

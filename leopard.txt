@@ -1,0 +1,8 @@
+team : Leopards
+
+manager : Miseon
+
+members :
+- JinHo
+- InHyeok
+- Seop
